@@ -49,5 +49,5 @@ This part is placed inside the page and only visible when user presses the New U
 4. A label and textbox for Phone input
 5. A label and textbox for Email input
 6. A label and dropbox for User Roles
-    - (user roles are "Guest", "Admin", "SuperAdmin")
+    - (User roles are "Guest", "Admin", "SuperAdmin", etc.)
 7. A label and checkbox for Enabled/Disabled user
