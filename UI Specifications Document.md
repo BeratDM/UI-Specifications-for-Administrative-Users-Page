@@ -1,6 +1,6 @@
 # User Management Screen
 
-This page is accessed with authorization only. Users Page displays the registered users and allows to create a new user.
+This page is accessed with authorization only. It displays the registered users and allows to create a new user.
 
 This page has three parts:
 
