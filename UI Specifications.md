@@ -18,30 +18,30 @@ This bar includes the followings:
 
 - Hide Disabled Users checkbox
 
-  - This consist of a checkbox and a text which indicates the function of the checkbox
+  - This consist of a checkbox and a text which indicates the function of the checkbox.
   
   - User checks the checkbox to modify the Users Table for only displaying the active users.
 
 - Save User button
 
-  - Checks and saves the new user information from New User Creation inputs
+  - Checks and saves the new user information from New User Creation inputs.
 
 ## Users Table
 
 This table displays the users as rows.
 
-- Columns should include this informations:
+- Columns should consist of the following:
 
   1. ID
   2. User Name
   3. Email
   4. Enabled (Indication for Enabled/Disabled accounts)
 
-- User can filter by active users if checks the Hide Disabled Users checkbox in the Options Bar.
+- Filter results by active users if the Hide Disabled Users checkbox in the Options Bar is checked.
 
 ## New User Creation
 
-This part is placed inside the page and only visible when user presses the New User button in the Options Bar includes these elements:
+This part is placed inside the page and only visible when user presses the New User button in the Options Bar. Included elements are as follows:
 
 1. A header that reads as "New User"
 2. A label and textbox for Username input
