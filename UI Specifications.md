@@ -1,4 +1,4 @@
-# Users Page
+# User Management Screen
 
 This page is accessed with authorization only. Users Page displays the registered users and allows to create a new user.
 
